@@ -223,7 +223,7 @@ class BoulderWeatherCheck::CLI
       puts "Chance of precipitation: #{hour.rain}%"
       puts "Cloud conditions: #{hour.cloud}"
       puts "Windspeed is #{hour.wind}mph"
-      puts
+      puts " "
     end
   end
 
