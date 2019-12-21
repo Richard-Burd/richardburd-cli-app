@@ -1,4 +1,4 @@
-﻿# Boulder-WeatherCheck
+# Boulder-WeatherCheck
 
 ## Background
 
@@ -7,6 +7,13 @@
 ## About This Program
 
 The purpose of this program is to check the Boulder Colorado weather and see if it's OK to go outside.  I could check the weather online but then I have to look at the complete hourly forecast for the entire day; this program just checks a specific timeframe that the user specifies so the user only sees weather for that time-frame, and nothing more.  The user can also specify the weather conditions they're willing to tolerate and will be told whether or not the weather conforms to those conditions the user finds tolerable; the objective is to get a quick answer on whether or not the user wants to go outside for exercise, or stay indoors.
+
+## Cool Graphics
+Here is an illustration showing the program's architecture detailed down to the method level:
+<a href="https://imgur.com/NJVwawn.jpg"><img src="https://i.imgur.com/NJVwawn.jpg" title="source: imgur.com" /></a>
+
+<p>Here is how the program was assembled in three separate layers:
+<a href="https://imgur.com/NAiH6qa"><img src="https://i.imgur.com/NAiH6qa.jpg" title="source: imgur.com" /></a></p>
 
 ## Install instructions
 
